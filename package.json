@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "React Project",
+  "main": "custom.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ui-Dev-Ram/react-ram.git"
+  },
+  "author": "Ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ui-Dev-Ram/react-ram/issues"
+  },
+  "homepage": "https://github.com/Ui-Dev-Ram/react-ram#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
